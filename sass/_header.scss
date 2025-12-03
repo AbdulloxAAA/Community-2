@@ -110,7 +110,7 @@ body.dark {
   position: fixed;
   top: 0;
  background: rgba(255, 255, 255, 0.6); /* 60% shaffof */
-  backdrop-filter: blur(10px); /* ixtiyoriy — fonga blur */
+  backdrop-filter: blur(50px); /* ixtiyoriy — fonga blur */
   z-index: 1000;
 
   .navbar-links {
